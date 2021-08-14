@@ -2,7 +2,7 @@
     "name": "clubhouse-pos-importer",
     "version": "1.12.8",
     "private": true,
-    "homepage": "http://www.chcollector.com/",
+    "homepage": "http://www.tanglevault.com/",
     "dependencies": {
         "@fontsource/roboto": "^4.5.0",
         "@material-ui/core": "^4.12.1",
